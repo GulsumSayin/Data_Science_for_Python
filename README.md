@@ -8,4 +8,4 @@ Bu repo, Python ile Veri Bilimi çalışmalarınızı kolaylaştırmak için haz
 
 - Pandas Kullanımı: Veri çerçeveleri (DataFrame), veri temizleme ve dönüştürme işlemleri
 
-- Veri Görselleştirme (Opsiyonel olarak eklenebilir): Matplotlib ve Seaborn ile veri görselleştirme
+  
